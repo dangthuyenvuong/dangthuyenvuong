@@ -7,5 +7,8 @@
 - ⚡ Fun fact: I love to book, gym
 ### Connect with me:
 
-[instagram]: https://www.instagram.com/vuong.nar
-[facebook]: https://www.facebook.com/DangThuyenVuong.2502
+- [facebook]: https://www.facebook.com/DangThuyenVuong.2502 🤓💻
+- [instagram]: https://www.instagram.com/vuong.nar 🔗🔗
+
+
+
