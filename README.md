@@ -1,5 +1,5 @@
 ### Hi there, I’m Vuong 👋
-## I’m a developer, love mobile and website technical!
+## I’m a developer, love mobile and website !
 - 🔭 I’m currently working on a DNA Digital
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other
