@@ -11,7 +11,7 @@
 ### Connect with me:
 
 - [facebook]: https://www.facebook.com/DangThuyenVuong.2502 🤓💻
-- [instagram]: https://www.instagram.com/vuong.nar 🔗🔗
+- [instagram]: https://www.instagram.com/DangThuyenVuong.2502/ 🔗🔗
 
 
 
