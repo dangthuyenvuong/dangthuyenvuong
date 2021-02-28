@@ -10,7 +10,7 @@
 - PHP, HTML, CSS, JAVASCRIPT, NODEJS, React, Flutter
 ### Connect with me:
 
-- website: http://dangthuyenvuong.com/ 
+- Portfolio: http://dangthuyenvuong.com/ 
 - [facebook]: https://www.facebook.com/DangThuyenVuong.2502 🤓💻
 - [instagram]: https://www.instagram.com/DangThuyenVuong.2502/ 🔗🔗
 
