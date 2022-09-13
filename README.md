@@ -1,6 +1,6 @@
 ### Hi there, I’m Vuong 👋
 ## I’m a developer, love mobile and website !
-- 🔭 I’m currently working on a [CBI/Chi Doanh]: https://www.chidoanh.com
+- 🔭 I’m currently working on a CBI/Chi Doanh: https://www.chidoanh.com
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other
 - 🥅 2022 Goals: Study and contribute to Opensource projects
